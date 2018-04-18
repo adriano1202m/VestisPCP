@@ -1,9 +1,9 @@
+
 {***********************************************************************************
 **  SISTEMA...............: VESTIS PCP                                            **
 **  DESCRIÇÃO.............: SISTEMA PARA COMÉRCIO E INDUSTRIAS DE CONFECÇÕES      **
 **  LINGUAGEM/DB..........: DELPHI XE7  /  SQL SERVER 2014                        **
 **  ANO...................: 2010 - 2018                                           **
-**                                                                                **
 ** ------------------------------------------------------------------------------ **
 **                                                                                **
 **  AUTOR/DESENVOLVEDOR...: ADRIANO ZANINI                                        **
@@ -14,7 +14,6 @@
 **  MINHAS AUTORIAS.......:  Vestis PCP e IndPCP                                  **
 **                                                                                **
 **  - VESTISPCP (é gratuito, disponivel no GitHub). Não dou Suporte Técnico.      **
-**                                                                                **
 **  - INDPCP (é pago). Dou Suporte Técnico.                                       **
 **                                                                                **
 ** -----------------------------------------------------------------------------  **
