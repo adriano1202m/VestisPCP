@@ -5,7 +5,6 @@
 **  LINGUAGEM/DB..........: DELPHI XE7  /  SQL SERVER 2014                        **
 **  ANO...................: 2010 - 2018                                           **
 ** ------------------------------------------------------------------------------ **
-**                                                                                **
 **  AUTOR/DESENVOLVEDOR...: ADRIANO ZANINI                                        **
 **  e-mail................: vestispcp.indpcp@gmail.com                            **
 **                                                                                **
