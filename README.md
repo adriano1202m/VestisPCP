@@ -11,17 +11,17 @@ ANO: 2010 - 2018
 AUTOR/DESENVOLVEDOR: ADRIANO ZANINI
 
 
-e-mail: vestispcp.indpcp@gmail.com
+e-mail: dbvenda@altaica.com.br
 
 
 
-MINHAS AUTORIAS: "VestisPCP" e "IndPCP"
+MINHAS AUTORIAS: "VestisPCP", "IndPCP" e "DBVenda"
 
 
 
 - VESTISPCP (é gratuito, disponivel no GitHub). Não dou Suporte Técnico.
 
-- INDPCP (é pago). Dou Suporte Técnico. 
+- INDPCP/DBVenda (é pago). Dou Suporte Técnico. 
 
 
 
