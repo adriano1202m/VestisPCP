@@ -11,10 +11,6 @@ ANO: 2010 - 2018
 AUTOR/DESENVOLVEDOR: ADRIANO ZANINI
 
 
-e-mail: dbvenda@altaica.com.br
-
-
-
 MINHAS AUTORIAS: "VestisPCP", "IndPCP" e "DBVenda"
 
 
